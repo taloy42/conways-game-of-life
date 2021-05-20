@@ -11,3 +11,9 @@ every implementation will ask the user toprovide the following:
 * GOlang
 
 ``` go run main.go board.go ```
+
+---
+
+* python3.7
+
+``` python main.py ```
