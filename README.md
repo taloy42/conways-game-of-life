@@ -6,7 +6,8 @@ every implementation will ask the user toprovide the following:
 2. probability for cell to be alive at the beggining of the game
 3. time interval in miliseconds between updates
 
-## GOlang
+---
 
-to run, execute the command:
+* GOlang
+
 ``` go run main.go board.go ```
